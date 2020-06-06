@@ -1,0 +1,2 @@
+- implement ABS brake to bycicle and basically any 2 weeled vehicle, also directional braking, ex: if go straight or turning, prevent braking the front brake to not cause accident
+- using video feed for object detection AI to train

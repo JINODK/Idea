@@ -1,0 +1,4 @@
+- laser ruler - using light to measure distance - turns out there's a technique called Time-of-Flight that basically do the same thing
+- expandable touch screen - using Time-of-Flight sensor and rotate it around to measure 2D and calculate finger position - turn out it is called LiDAR and using it as a expandable touch screen as far as i know, no one did that before
+- remote mouse controller - using a pointy thing to point at a screen and the mouse goes to that exact position on the screen - turn out LG aready did that quite recently
+-
